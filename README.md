@@ -18,4 +18,6 @@ file from [HorribleSubs] and one that is 1080p. You
 can make the second line less specific if you want,
 and it'll download the first source it matches against. 
 
-
+Once downloaded, the script will attempt to execute the 
+torrent file with the default bittorrent client on the 
+machine. 
