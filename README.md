@@ -8,6 +8,7 @@ followed by keywords for matching against the different sources.
 example:
 
 Servant x Service
+
 [HorribleSubs] Servant x Service 1080p
 
 
